@@ -1,6 +1,6 @@
 # Tutorial 1B
 
-## Q1. 
+## Q1. Factory program
 
 ### (i) Decision table
 
@@ -25,6 +25,8 @@
 | Y   | Y   | N   |      | X   |     |
 | N   | -   | -   |      |     | X   |
 | Y   | N   | N   |      |     | X   |
+
+### (iii) Pseudocode
 
 ```
 BEGIN
@@ -52,7 +54,7 @@ END
 | REP          | Sent for repair            |
 | REJ          | Rejected                   |
 
-## Q2.
+## Q2. Insurance program
 
 ### (i) Decision table
 

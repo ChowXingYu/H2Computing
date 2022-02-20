@@ -2,7 +2,7 @@
 
 - [Tutorial 1A](#tutorial-1a)
   - [Q1. Pseudocode](#q1-pseudocode)
-  - [Q2.](#q2)
+  - [Q2. Income tax program](#q2-income-tax-program)
     - [Flowchart](#flowchart)
     - [Pseudocode](#pseudocode)
     - [Test plan](#test-plan)
@@ -32,7 +32,7 @@ BEGIN
 END
 ```
 
-## Q2.
+## Q2. Income tax program
 
 ### Flowchart
 
