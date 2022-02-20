@@ -1,5 +1,16 @@
 # Tutorial 1B
 
+- [Tutorial 1B](#tutorial-1b)
+  - [Q1. Factory program](#q1-factory-program)
+    - [(i) Decision table](#i-decision-table)
+    - [(ii) Simplified decision table](#ii-simplified-decision-table)
+    - [(iii) Pseudocode](#iii-pseudocode)
+    - [Notations](#notations)
+  - [Q2. Insurance program](#q2-insurance-program)
+    - [(i) Decision table](#i-decision-table-1)
+    - [(ii) Simplified decision table](#ii-simplified-decision-table-1)
+    - [Notations](#notations-1)
+
 ## Q1. Factory program
 
 ### (i) Decision table
