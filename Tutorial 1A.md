@@ -1,6 +1,14 @@
 # Tutorial 1A
 
-## Q1. 
+- [Tutorial 1A](#tutorial-1a)
+  - [Q1. Pseudocode](#q1-pseudocode)
+  - [Q2.](#q2)
+    - [Flowchart](#flowchart)
+    - [Pseudocode](#pseudocode)
+    - [Test plan](#test-plan)
+  - [Q3. Flowchart](#q3-flowchart)
+
+## Q1. Pseudocode
 
 ```
 BEGIN
@@ -75,3 +83,25 @@ END
 | 20000              | 5                | 0                                  | Extreme data         |
 | test               | test             | Error: inputs must be integers     | Abnormal data        |
 | -1                 | 2                | Error: inputs must be non-negative | Abnormal data        |
+
+## Q3. Flowchart
+
+```mermaid
+flowchart TD;
+    start1-->proc1;
+    proc1-->proc2;
+    proc2-->proc3;
+    proc3-->proc4;
+    proc4-->if1;
+    if1--yes-->proc3;
+    if1--no-->print1[/"Print sum"/]-->end1;
+
+    start1([Start]);
+    proc1["sum = 0"];
+    proc2["i = 0"];
+    proc3["i = i + 1"];
+    proc4["sum = sum + i"];
+    if1{"i < 100"};
+    end1([End])
+
+```

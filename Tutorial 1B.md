@@ -15,16 +15,6 @@
 | Y   | Y   | N   |      | X   |     |
 | Y   | Y   | Y   | X    |     |     |
 
-#### Notations
-
-| Abbreviation | Meaning                    |
-| ------------ | -------------------------- |
-| DIM          | All dimensions are correct |
-| STR          | Strength tests are passed  |
-| PAI          | Paint tests are passed     |
-| PASS         | Fit for use                |
-| REP          | Sent for repair            |
-| REJ          | Rejected                   |
 
 ### (ii) Simplified decision table
 
@@ -51,6 +41,17 @@ BEGIN
 END
 ```
 
+### Notations
+
+| Abbreviation | Meaning                    |
+| ------------ | -------------------------- |
+| DIM          | All dimensions are correct |
+| STR          | Strength tests are passed  |
+| PAI          | Paint tests are passed     |
+| PASS         | Fit for use                |
+| REP          | Sent for repair            |
+| REJ          | Rejected                   |
+
 ## Q2.
 
 ### (i) Decision table
@@ -76,7 +77,7 @@ END
 | Y   | N        | -          |     | X      |     |
 | Y   | Y        | -          | X   |        |     |
 
-#### Notations
+### Notations
 
 | Abbreviation | Meaning                                         |
 | ------------ | ----------------------------------------------- |
