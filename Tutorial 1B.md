@@ -11,6 +11,7 @@
     - [(ii) Simplified decision table](#ii-simplified-decision-table-1)
     - [Notations](#notations-1)
 
+
 ## Q1. Factory program
 
 ### (i) Decision table
