@@ -1,6 +1,6 @@
 # Tutorial 1B
 
-## Q1. 
+## Q1. Factory program
 
 ### (i) Decision table
 
@@ -15,16 +15,6 @@
 | Y   | Y   | N   |      | X   |     |
 | Y   | Y   | Y   | X    |     |     |
 
-#### Notations
-
-| Abbreviation | Meaning                    |
-| ------------ | -------------------------- |
-| DIM          | All dimensions are correct |
-| STR          | Strength tests are passed  |
-| PAI          | Paint tests are passed     |
-| PASS         | Fit for use                |
-| REP          | Sent for repair            |
-| REJ          | Rejected                   |
 
 ### (ii) Simplified decision table
 
@@ -35,6 +25,8 @@
 | Y   | Y   | N   |      | X   |     |
 | N   | -   | -   |      |     | X   |
 | Y   | N   | N   |      |     | X   |
+
+### (iii) Pseudocode
 
 ```
 BEGIN
@@ -51,7 +43,18 @@ BEGIN
 END
 ```
 
-## Q2.
+### Notations
+
+| Abbreviation | Meaning                    |
+| ------------ | -------------------------- |
+| DIM          | All dimensions are correct |
+| STR          | Strength tests are passed  |
+| PAI          | Paint tests are passed     |
+| PASS         | Fit for use                |
+| REP          | Sent for repair            |
+| REJ          | Rejected                   |
+
+## Q2. Insurance program
 
 ### (i) Decision table
 
@@ -76,7 +79,7 @@ END
 | Y   | N        | -          |     | X      |     |
 | Y   | Y        | -          | X   |        |     |
 
-#### Notations
+### Notations
 
 | Abbreviation | Meaning                                         |
 | ------------ | ----------------------------------------------- |
